@@ -79,7 +79,8 @@ header {
     color: var(--text-primary);
     width: 100%;
     position: fixed;
-    top: 0;
+	left: 2%;
+    top: 1;
     z-index: 10;
 	transition: opacity 0.5s ease;
 }
@@ -93,6 +94,9 @@ header span {
     display: inline-block;
     transition: transform 0.1s ease;
     color: var(--accent);
+    font-size: larger; 
+    font-weight: 400; 
+    font-family: 'Montserrat', sans-serif;
 }
 
 #logo:hover {
@@ -456,7 +460,8 @@ header span {
     border: 1px solid rgba(252,163,17,0.4);
     color: var(--accent);
     background: rgba(252,163,17,0.07);
-    font-family: 'Courier New', monospace;
+    font-family: 'Montserrat', monospace;
+    font-weight: 600
 }
 
 .bento-tag--wip {
@@ -542,7 +547,8 @@ header span {
   /* ─── Brand ─── */
  
   .footer-tagline {
-    font-family: 'Courier New', Consolas, monospace;
+    font-family: 'Montserrat',sans-serif;
+	font-weight: 400;
     font-size: 10px;
     color: rgba(216, 182, 0, 0.65);
     letter-spacing: 0.14em;
@@ -676,11 +682,12 @@ header span {
   }
  
   .footer-copy {
-    font-family: 'Courier New', Consolas, monospace;
+    font-family: 'Montserrat',sans-serif;
     font-size: 9px;
     color: rgba(255, 255, 255, 0.18);
     letter-spacing: 0.10em;
     text-transform: uppercase;
+	font-weight: 400;
   }
 
   .footer-social i {
