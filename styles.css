@@ -575,7 +575,8 @@ header span {
  
   /* ─── Label colonna ─── */
   .footer-col-label {
-    font-family: 'Courier New', Consolas, monospace;
+    font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
     font-size: 9px;
     color: rgba(252, 163, 17, 0.38);
     letter-spacing: 0.20em;
