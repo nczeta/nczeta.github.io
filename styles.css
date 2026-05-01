@@ -774,11 +774,11 @@ header span {
 
     #homepage_logo {
         position: absolute;
-        width: 130px;
-        height: 96px;
+        width: 200px;
+        height: 166px;
         transform: none;
-        left: 30%;
-        top: 0;
+        left: 40%;
+        top: 30%;
     }
 
     /* Titoli */
