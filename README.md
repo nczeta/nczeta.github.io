@@ -6,7 +6,6 @@ Minimal dark-themed personal portfolio built from scratch with vanilla HTML, CSS
 ## Key Features
 
 - **SVG loader** — custom logo drawn and erased on page load via stroke-dashoffset animation
-- **Horizontal scroll section** — projects slide horizontally while scrolling vertically (sticky + translateX)
 - **Glassmorphism cards** — blur, amber glow on hover
 - **Animated nav links** — letter-by-letter vertical flip on hover
 - **Logo reveal** — two halves animate in from opposite directions via clip-path
