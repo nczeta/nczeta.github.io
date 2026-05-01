@@ -773,12 +773,12 @@ header span {
     }
 
     #homepage_logo {
-        position: static;
-        width: 110px;
-        height: 66px;
+        position: absolute;
+        width: 130px;
+        height: 96px;
         transform: none;
-        left: auto;
-        top: auto;
+        left: 30%;
+        top: 0;
     }
 
     /* Titoli */
